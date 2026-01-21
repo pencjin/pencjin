@@ -15,7 +15,7 @@ My academic training combines rigorous technical coursework in data science with
 
 ## 📁 Selected Projects
 
-### **UW Capstone Project**  
+### **UW Capstone Project(ongoing)**  
 **Sponsor:** Northwest Indian Fisheries Commission (NWIFC)  
 **Focus:** Career exploration, workforce development, environmental conservation  
 
