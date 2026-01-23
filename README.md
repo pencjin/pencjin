@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Peng Jin
-Data science student with a strong programming background, currently studying Informatics (Data Science) and Anthropology at the University of Washington. I focus on building data-driven systems that address real-world problems related to decision-making, public interest, and ethics through a human-centered and interdisciplinary lens.
+## Hi there 👋 I'm Peng Jin 
+First-generation Informatics and Anthropology double major focused on using data to drive decision-making in complex, real-world systems. Experienced in applying data analysis through a human-centered and ethical lens to support public-interest technology and socially impactful solutions, with full-stack experience spanning data analysis, machine learning, applied AI, front-end development, and information system design.
 
 ---
 
