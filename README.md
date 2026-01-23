@@ -15,10 +15,8 @@ My academic training combines rigorous technical coursework in data science with
 
 ## 📁 Selected Projects
 
-### **UW Capstone Project(ongoing)**  
+### **UW Capstone Project(ongoing): Indigenous Career Exploration & Workforce Analytics Platform**  
 **Sponsor:** Northwest Indian Fisheries Commission (NWIFC)  
-**Focus:** Career exploration, workforce development, environmental conservation  
-
 - Led end-to-end development of a full-stack career exploration platform addressing workforce pipeline gaps in Indigenous fisheries and natural resource management. 
 - Structured, cleaned, and analyzed career and user interaction data to surface high-interest pathways and inform data-driven content and outreach decisions.  
 - Integrated an LLM-based chatbot to support data explanation and user-facing Q&A within the platform.  
