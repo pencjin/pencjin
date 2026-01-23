@@ -19,11 +19,9 @@ My academic training combines rigorous technical coursework in data science with
 **Sponsor:** Northwest Indian Fisheries Commission (NWIFC)  
 **Focus:** Career exploration, workforce development, environmental conservation  
 
-- Designing and building a career exploration website aimed at motivating Indigenous youth to pursue careers in natural resource conservation and fisheries management.  
-- Addressing workforce pipeline gaps caused by large-scale retirements by making career options, pathways, and role requirements more visible and approachable.  
-- Structuring and presenting career information including skills, education routes, and real-world role examples to lower barriers to early-stage exploration.  
-- Incorporating human-centered design principles to ensure accessibility, representation, and relevance for younger audiences.  
-- Analyzing user engagement and interaction data to evaluate youth interests, identify high-resonance career areas, and inform iterative improvements to content and outreach strategy.
+- Led end-to-end development of a full-stack career exploration platform addressing workforce pipeline gaps in Indigenous fisheries and natural resource management. 
+- Structured, cleaned, and analyzed career and user interaction data to surface high-interest pathways and inform data-driven content and outreach decisions.  
+- Integrated an LLM-based chatbot to support data explanation and user-facing Q&A within the platform.  
 
 
 
