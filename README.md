@@ -17,42 +17,28 @@ My academic training combines rigorous technical coursework in data science with
 
 ### **UW Capstone Project(ongoing): Indigenous Career Exploration & Workforce Analytics Platform**  
 **Sponsor:** Northwest Indian Fisheries Commission (NWIFC)  
+**Role:** Data Engineer & Data Analyst
 - Led end-to-end development of a full-stack career exploration platform addressing workforce pipeline gaps in Indigenous fisheries and natural resource management. 
 - Structured, cleaned, and analyzed career and user interaction data to surface high-interest pathways and inform data-driven content and outreach decisions.  
-- Integrated an LLM-based chatbot to support data explanation and user-facing Q&A within the platform.  
+- Integrated an LLM-based chatbot to support data explanation and user-facing Q&A within the platform.
 
+URL: https://team-cedar.web.app/
 
-
-### **AI System for Bias Detection in Hospitality Reviews**  
+### **AI System for Bias Detection in Hospitality Reviews** 
+**Role:** Data Analyst Intern
 - Designed the core scoring algorithm underpinning FairwAI’s bias detection platform, forming the foundation for all downstream components.  
 - Built a framework using Bayesian shrinkage and median-based scoring to reduce distortion from low-review-count entities.  
 - Enabled bias auditing and service improvement through a B2B analytics tool and a user-centered review system.
 
-
+URL: https://gofairwai.com/
 
 ### **Olympic Medal Predictor**  
+**Role:** Data Analyst (Independent Project)
 - Cleaned, manipulated, and analyzed Olympic athlete data (1980–2016) using R and R Markdown.  
 - Built multivariable linear regression models with interaction effects; evaluated performance using RMSE and adjusted R².  
 - Developed an interactive Shiny app to visualize trends and predict medal outcomes based on user input.
-
----
-
-## 💼 Professional Experience
-
-**Data Analyst Intern — FairwAI Initiative (SolarFi Cares, Inc.)**  
-Built NLP pipelines and core scoring algorithms to detect bias patterns in over 1M hospitality reviews, forming the foundation of a fairness auditing system used for analytics and model development.
-
-**Data Analyst (Freelance) — Shining Express & Logistics Inc.**  
-Designed ETL workflows, optimization models, and interactive dashboards using Python and R to improve inventory tracking, delivery efficiency, and supply chain decision-making.
-
-**Data Engineer Intern — Refonte Learning**  
-Developed scalable data pipelines for real-time and batch processing using cloud-based big data tools, and built dashboards to support data-driven decisions while ensuring data security and governance.
-
-**America Reads Tutor — AmeriCorps**  
-Led technology literacy instruction for underserved K–12 students, integrating coding tools to reduce digital inequity and applying interdisciplinary insights from informatics and anthropology.
-
-**Digital Solutions Coordinator Intern — Jewish Community Center**  
-Built and maintained websites using HTML and CSS, digitized operational records, and generated analytical reports to support program planning and organizational decision-making.
+  
+URL: https://7ioj6d-pencjin.shinyapps.io/OlympicMedalPredictor/
 
 ---
 
@@ -65,11 +51,7 @@ Amazon EMR, MongoDB, Databases, Data Visualization (Tableau, Amazon QuickSight)
 
 ---
 
-## 🌱 Interests
-Data-driven decision-making, fairness and bias in AI, public-interest technology, ethics, and building systems that translate data into meaningful real-world impact.
-
----
-
 ## 📫 Contact
 - Email: Pen.Jin@outlook.com  
-- LinkedIn: *www.linkedin.com/in/peng-jin-74b53a231*
+- LinkedIn: www.linkedin.com/in/peng-jin-74b53a231
+- Resume: https://pencjin.github.io/pencjin/Peng-Jin-20260122.pdf
