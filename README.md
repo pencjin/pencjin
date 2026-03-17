@@ -32,6 +32,14 @@ My academic training combines rigorous technical coursework in data science with
 
 URL: https://team-cedar.web.app/
 
+### **Husky Connect** 
+**Role:** Full-Stack Developer
+- Built a full-stack web application using React to enable students to discover compatible study partners through an interactive quiz interface; implemented dynamic routing, state-driven UI, and responsive component design for a seamless user experience.
+- Designed and integrated a Firebase Realtime Database to manage user profiles, quiz responses, and matching results; implemented read/write operations, data synchronization, and logic for updating existing users to ensure data consistency.
+- Developed a custom quiz-based matching algorithm that filters and ranks potential study partners based on overlapping subjects, work styles, and availability, enabling personalized and meaningful user connections.
+
+URL: https://huskyconnect-bb485.web.app/
+
 ### **AI System for Bias Detection in Hospitality Reviews** 
 **Role:** Data Analyst Intern
 - Designed the core scoring algorithm underpinning FairwAI’s bias detection platform, forming the foundation for all downstream components.  
