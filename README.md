@@ -30,6 +30,15 @@ My academic training combines rigorous technical coursework in data science with
 
 **Key Takeaways:** Lack of interest was not the issue; lack of awareness was. Removing information barriers can significantly change career consideration.
 
+#### **Spring Quarter Updates**  
+**Overview:** Our Winter and Spring project plans remained largely the same, with Spring adding more detailed task breakdowns and a structured backlog. Our goal is to improve the existing website and strengthen its marketing impact.
+
+**Goals & Process:** Through user research, we identified several key improvements: a shorter and more engaging quiz, a more user-friendly mobile layout, the use of Google Analytics to better understand user behavior and inform decisions. and etc.
+
+**Challenges:** One major challenge was obtaining dynamic career data. We could not find any source that matched all 60+ NRM careers on our site. Since the previous team had hardcoded all data, we ultimately had to abandon this plan.
+
+**Next Steps:** In the coming weeks, we will focus on front-end development to implement planned features. We will then conduct user testing and analyze data to support business decisions, followed by integrating a more advanced AI chatbot tailored to our website.
+
 URL: https://team-cedar.web.app/
 
 ### **Husky Connect** 
