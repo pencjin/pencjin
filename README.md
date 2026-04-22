@@ -96,4 +96,4 @@ Amazon EMR, MongoDB, Databases, Data Visualization (Tableau, Amazon QuickSight)
 ## 📫 Contact
 - Email: Pen.Jin@outlook.com  
 - LinkedIn: www.linkedin.com/in/peng-jin-74b53a231
-- Resume: [https://pencjin.github.io/pencjin/Peng-Jin-20260122.pdf](https://pencjin.github.io/pencjin/Peng_Jin_Resume_v5.pdf)
+- Resume: https://pencjin.github.io/pencjin/Peng_Jin_Resume_v5.pdf
