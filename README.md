@@ -15,7 +15,7 @@ My academic training combines rigorous technical coursework in data science with
 
 ## 📁 Selected Projects
 
-### **UW Capstone Project(ongoing): Indigenous Career Exploration & Workforce Analytics Platform**  
+### **UW Capstone Project(ongoing): Indigenous Career Exploration & Workforce Analytics Platform 01/2026 - 06/2026**  
 **Sponsor:** Northwest Indian Fisheries Commission (NWIFC)  
 **Role:** Data Engineer & Data Analyst
 - Led end-to-end development of a full-stack career exploration platform addressing workforce pipeline gaps in Indigenous fisheries and natural resource management. 
@@ -41,7 +41,7 @@ My academic training combines rigorous technical coursework in data science with
 
 URL: https://team-cedar.web.app/
 
-### **Husky Connect** 
+### **Husky Connect 01/2026 - 03/2026** 
 **Role:** Full-Stack Developer
 - Built a full-stack web application using React to enable students to discover compatible study partners through an interactive quiz interface; implemented dynamic routing, state-driven UI, and responsive component design for a seamless user experience.
 - Designed and integrated a Firebase Realtime Database to manage user profiles, quiz responses, and matching results; implemented read/write operations, data synchronization, and logic for updating existing users to ensure data consistency.
@@ -49,7 +49,7 @@ URL: https://team-cedar.web.app/
 
 URL: https://huskyconnect-bb485.web.app/
 
-### **AI System for Bias Detection in Hospitality Reviews** 
+### **AI System for Bias Detection in Hospitality Reviews 07/2025 - 08/2025** 
 **Role:** Data Analyst Intern
 - Designed the core scoring algorithm underpinning FairwAI’s bias detection platform, forming the foundation for all downstream components.  
 - Built a framework using Bayesian shrinkage and median-based scoring to reduce distortion from low-review-count entities.  
@@ -66,7 +66,7 @@ URL: https://huskyconnect-bb485.web.app/
 
 URL: https://gofairwai.com/
 
-### **Olympic Medal Predictor**  
+### **Olympic Medal Predictor 12/2024 - 03/2025**  
 **Role:** Data Analyst (Independent Project)
 - Cleaned, manipulated, and analyzed Olympic athlete data (1980–2016) using R and R Markdown.  
 - Built multivariable linear regression models with interaction effects; evaluated performance using RMSE and adjusted R².  
