@@ -71,7 +71,7 @@ URL: https://gofairwai.com/
 
 ### **Olympic Medal Predictor**  
 **12/2024 - 03/2025**  
-**Role:** Data Scientist (Independent Project)
+**Role:** Data Scientist
 - Cleaned, manipulated, and analyzed Olympic athlete data (1980–2016) using R and R Markdown.  
 - Built multivariable linear regression models with interaction effects; evaluated performance using RMSE and adjusted R².  
 - Developed an interactive Shiny app to visualize trends and predict medal outcomes based on user input.
