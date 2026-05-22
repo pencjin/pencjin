@@ -61,7 +61,7 @@ My academic training combines rigorous technical coursework in data science with
 
 - Led end-to-end development of a full-stack career exploration platform addressing workforce pipeline gaps in Indigenous fisheries and natural resource management.
 - Structured, cleaned, and analyzed career and user interaction data to surface high-interest pathways and inform data-driven content and outreach decisions.
-- Integrated an LLM-based chatbot to support data explanation and user-facing Q&A within the platform.
+- Supported partnerships with multiple schools and districts, contributing to platform adoption with 200+ weekly active student users exploring career pathways and workforce resources.
 
 <p>
   <a href="https://team-cedar.web.app/" title="Visit the Indigenous Career Exploration platform">
@@ -242,6 +242,8 @@ Strong modeling is only valuable when insights are communicated clearly—usabil
 `LLM Integration`
 `Data Governance`
 `Encryption Techniques`
+`Google Analytics`
+
 
 ---
 
