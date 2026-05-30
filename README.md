@@ -49,13 +49,14 @@ My academic training combines rigorous technical coursework in data science with
 
 <br>
 
-## 🌲 UW Capstone Project (Ongoing): Indigenous Career Exploration & Workforce Analytics Platform
+## 🌲 UW Capstone Project: Indigenous Career Exploration & Workforce Analytics Platform
 
 | Category | Details |
 |---|---|
 | 📅 Timeline | 01/2026 - 06/2026 |
 | 🤝 Sponsor | Northwest Indian Fisheries Commission (NWIFC) |
 | 👨‍💻 Role | Data Engineer & Data Analyst |
+| 🥇 Award | Bridge-Builder Award for Equity issued by UW Information School |
 
 ### ⚡ Key Contributions
 
@@ -64,7 +65,7 @@ My academic training combines rigorous technical coursework in data science with
 - Supported partnerships with multiple schools and districts, contributing to platform adoption with 200+ weekly active student users exploring career pathways and workforce resources.
 
 <p>
-  <a href="https://team-cedar.web.app/" title="Visit the Indigenous Career Exploration platform">
+  <a href="https://rootedfutures.nwifc.org" title="Visit the Indigenous Career Exploration platform">
     <img src="https://img.shields.io/badge/View_Project-Live_Demo-green?style=for-the-badge">
   </a>
 </p>
